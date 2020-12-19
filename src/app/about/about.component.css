@@ -1,0 +1,11 @@
+.text {
+  color: red;
+}
+
+.h1 {
+  color: darkblue;
+}
+
+.footer {
+  display: grid;
+}
